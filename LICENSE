@@ -1,0 +1,18 @@
+CERN Open Hardware Licence v2 - Strongly Reciprocal (CERN-OHL-S)
+
+This document constitutes the binding legal licence for the "Blood Ecosystem Stabilizer" (the "Product"). 
+
+1. PERMITTED USES & FREEDOMS
+You are granted a worldwide, royalty-free, non-exclusive licence to use, copy, modify, distribute, and manufacture the Product described in these repository files, subject to the conditions below.
+
+2. THE STRONG RECIPROCITY CLAUSE (THE CORPORATE SHIELD)
+If you manufacture, distribute, or commercially exploit any object or device derived from these source files, or if you modify these source files in any way, YOU MUST:
+   a) Make all of your modifications, CAD designs, code, and manufacturing schematics completely public under this exact same CERN-OHL-S licence.
+   b) Provide free, open access to the source code and hardware blueprints to any end-user or consumer.
+   c) Never apply for exclusive patents, trademarks, or proprietary paywalls on this technology or any variation of it.
+
+3. NO PATENT CLAUSE
+Any attempt by a commercial entity, corporation, or individual to file a proprietary patent on this device, its sub-systems (including the dual-tier infrastructure, solar canvas integration, or 60-second click-in single-use diagnostic cartridge), or its software logic will result in the immediate and automatic termination of your licence, and constitutes an actionable breach of international copyright and open hardware laws.
+
+4. DISCLAIMER OF WARRANTY
+This hardware design is provided "as is" by the open-source community without warranties of any kind, explicit or implied. 
